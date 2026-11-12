@@ -1,0 +1,839 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_sports_cars",
+  "retrieved": "2026-11-07",
+  "sourceRows": 1994,
+  "includedRows": 1828,
+  "brands": 398,
+  "excluded": [
+    {
+      "brand": "AAT",
+      "model": "1953 Commemorative Edition Wagon",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "500",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "500e",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "500 Asssetto Corse",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "500 Esseesse",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "500 Ferrari Dealers Edition",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "595",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "595 Competizione",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "595 Monster Energy Yamaha",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "600e",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "695",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "695 Biposto Record",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "695 Edizione Maserati",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "695 Esseesse",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "695 Tributo Ferrari",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Abarth",
+      "model": "Grande Punto S2000",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "DN-X",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "Integra Type S",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "Integra Type S HRC Prototype",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "RSX",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "RSX A-Spec",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "TLX GT",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Acura",
+      "model": "TLX Type S PMC Edition",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alcraft",
+      "model": "GT",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "75 Turbo Evoluzione",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "75 Turbo Evoluzione IMSA",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "147 GTA Cup",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "155 TS BTCC",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "155 V6 TI",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "156 GTAm",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "156 Superturismo",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "164 Procar",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Centauri",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia GTA",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia GTAm",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia Quadrifoglio",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulia Quadrifoglio Luna Rossa",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Giulietta TCR",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "Gloria",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alfa Romeo",
+      "model": "MiTo GTA",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Alpine",
+      "model": "A290_β",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Angelelli",
+      "model": "Hintegrale",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Rapide AMR",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Rapide E",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Rapide S",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Valen",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Vanquish Zagato Shooting Brake",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Aston Martin",
+      "model": "Virage Shooting Brake Zagato",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "90 Quattro IMSA GTO",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "200 Quattro Trans Am",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "A1 Clubsport Quattro",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "A3 TDI Clubsport Quattro",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "A4 DTM 'R9'",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "A4 Quattro Super Touring",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "AI:RACE",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS e-tron GT Performance",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS2 Avant",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS3",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS3 LMS",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS4 SuperStars Series",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS5 Sportback",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS6",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS6 Avant GT",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS6 GTO",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS7 Sportback",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "S4 GTO",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "S6",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "S7 Sportback",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Audi",
+      "model": "TT Clubsport Turbo",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Audi",
+      "model": "TT Cup",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Audi",
+      "model": "V8 Quattro DTM",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Badsey",
+      "model": "Bullet",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "320si WTCC",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M3 (F80)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M3 (G80)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M3 Competition (G80)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M5 (F90)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M5 (G90)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M5 CS (F90)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M5 Competition (F90)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M5 Competition (G90)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M535i (E12)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "M535i (E28)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "BMW",
+      "model": "Speedtop",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Bugatti",
+      "model": "EB218",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Callaway",
+      "model": "AeroWagen",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Chevrolet",
+      "model": "WTCC Ultra",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Cupra",
+      "model": "DarkRebel",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Drako",
+      "model": "GTE",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Engler",
+      "model": "F.F Superquad",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Factory Five Racing",
+      "model": "F9R",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "625 TF",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "500 TRC",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "GTC4Lusso",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Ferrari",
+      "model": "F80 Aperta",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Ford",
+      "model": "Sierra RS500 Cosworth",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Ford",
+      "model": "Escort RS Cosworth",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Gordon Murray Automotive",
+      "model": "T.50",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Gordon Murray Automotive",
+      "model": "T.50s Niki Lauda",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Gordon Murray Automotive",
+      "model": "T.33",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Gordon Murray Automotive",
+      "model": "S1",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Hennessey",
+      "model": "Blackbird",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Holden",
+      "model": "Holden Commodore",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Holden",
+      "model": "LX Torana SS",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Holden Special Vehicles",
+      "model": "HSV ClubSport",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Holden Special Vehicles",
+      "model": "HSV Maloo",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Holden Special Vehicles",
+      "model": "HSV GTS",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Holden Special Vehicles",
+      "model": "HSV Senator",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Holden Special Vehicles",
+      "model": "HSV Grange",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "XFR-S",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Jaguar",
+      "model": "XE SV Project 8",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Karma",
+      "model": "Kaveya",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Koenigsegg",
+      "model": "CCGT1",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Temerario Super Trofeo",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Estoque",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Revuelto SV",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Lamborghini",
+      "model": "Fenomeno Roadster",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Lancia",
+      "model": "Stratos",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Lancia",
+      "model": "Sibilo",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Lancia",
+      "model": "Lancia Montecarlo",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Lexus",
+      "model": "IS F",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Lexus",
+      "model": "IS 500 F Sport Performance",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Lexus",
+      "model": "LFA EV",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Lucid",
+      "model": "Air Sapphire",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "McLaren",
+      "model": "788HS",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "McLaren",
+      "model": "McL 6GT",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Mercedes-AMG",
+      "model": "CLE 63 Mythos",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Mercedes-AMG",
+      "model": "CLS 53",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mercedes-AMG",
+      "model": "E43/E63/E63 S (W213)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mercedes-AMG",
+      "model": "GT 4-door Coupé",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mercedes-AMG",
+      "model": "GT 4-door Coupé (C590)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "190E 2.5-16 Evolution II",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "500e",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "C63 (W204)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Mitsubishi",
+      "model": "Lancer Evolution",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Nissan",
+      "model": "Skyline 250GT",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "308 GTi",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Peugeot",
+      "model": "208 GTi",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Panamera",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Taycan",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Porsche",
+      "model": "Taycan Turbo GT",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Renault",
+      "model": "Clio V6 Renault Sport",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Renault",
+      "model": "Mégane R.S.",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Savage Rivale",
+      "model": "Roadyacht GTS",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Sbarro",
+      "model": "Sparta",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Subaru",
+      "model": "WRX",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model S Plaid",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Tesla",
+      "model": "Model 3 Performance",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Touring Superleggera",
+      "model": "Veloce12 Aperta",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla (E210)",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Yaris",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR GT3",
+      "reason": "资料年份缺失、异常或晚于 2026"
+    },
+    {
+      "brand": "Vauxhall",
+      "model": "Cavalier BTCC",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Venturi",
+      "model": "Fétish",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Scirocco R",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Passat R36",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Passat CC",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "Arteon R",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volkswagen",
+      "model": "ID.X Performance",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volvo",
+      "model": "240 Turbo",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volvo",
+      "model": "850 BTCC",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Volvo",
+      "model": "S60 V8 Supercar",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Voyah",
+      "model": "i-Land",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "SU7 Ultra",
+      "reason": "非本次跑车车身类别"
+    },
+    {
+      "brand": "Zeekr",
+      "model": "001 FR",
+      "reason": "非本次跑车车身类别"
+    }
+  ]
+}

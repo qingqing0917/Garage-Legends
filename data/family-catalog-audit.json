@@ -1,0 +1,17 @@
+{
+  "source": "https://en.wikipedia.org/wiki/List_of_sport_utility_vehicles",
+  "sedanSources": [
+    "https://en.wikipedia.org/wiki/Category:Sedans",
+    "https://en.wikipedia.org/wiki/Category:Sports_sedans"
+  ],
+  "retrieved": "2026-11-07",
+  "suvTableRows": 1443,
+  "sedanCategoryPages": 1555,
+  "included": 2709,
+  "classes": {
+    "sedan": 1273,
+    "suv": 1374,
+    "offroad": 62
+  },
+  "skipped": 289
+}
